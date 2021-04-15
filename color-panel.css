@@ -16,6 +16,8 @@
 }
 .close-theme-panel {
     left: -215px;
+	
+	
 }
 .open-theme-panel {
     left: -1px;
@@ -51,6 +53,8 @@
     margin: 3px auto 15px;
     padding-top: 0;
     padding-bottom: 0;
+	
+	
 }
 #theme-panel .segment a.switcher {
 	border: 2px solid #cccccc;
